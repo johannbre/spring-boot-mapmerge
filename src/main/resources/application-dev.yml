@@ -1,0 +1,6 @@
+test:
+  map:
+    100: 100
+  mapOfMap:
+    KEY1:
+      100: 100
